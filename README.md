@@ -1,2 +1,2 @@
 # RobloxDevelopingUtilities
-A repository for RDU (Roblox Developing Utilities)
+**A repository for RDU (Roblox Developing Utilities)**
